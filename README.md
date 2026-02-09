@@ -9,7 +9,7 @@ This is the official repository for the paper at TKDE: [HCGBot: Learning Homophi
 ## How to train/evaluate HCGBot
 
 ### Datasets
-Due to privacy restrictions, we can only provide processed/de-anonymized data. You could access the data from Baidu Disk: [TBD]
+Due to privacy restrictions, we can only provide processed/de-anonymized data. You could access the data from Baidu Disk: [https://pan.baidu.com/s/1fMYDGoZ2Snq8Oi9MTn0B0Q?pwd=adn7](https://pan.baidu.com/s/1fMYDGoZ2Snq8Oi9MTn0B0Q?pwd=adn7)
 Or, if you require the complete raw data, please see the [dataset homepage](https://twibot22.github.io/).
 
 ### Basic Usage
